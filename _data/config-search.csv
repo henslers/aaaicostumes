@@ -1,7 +1,8 @@
 field,index,display
 title,true,true
-date,true,true
-creator,true,false
+count,false,true
+owner,true,false
 description,true,true
-subject,true,true
+article,true,true
 location,true,false
+dances,true,true
