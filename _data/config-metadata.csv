@@ -1,12 +1,12 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
+owner,Owner,
+count,Item Count,
 description,Description,
-subject,Subjects,true
+article,Article,true
 location,Location
-latitude,Latitude
-longitude,Longitude
+condition,Condition
+dances,Dances Used,true
 source,Source
 identifier,Source Identifier,,
 type,Type,
