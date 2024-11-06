@@ -1,8 +1,54 @@
-objectid,filename,youtubeid,vimeoid,title,owner,count,description,article,location,condition,dances,type,format,language,rights
-aadc_001,aadc_001.jpg,,,Headdress,AADC,2,headress with flowers,headwear,cabinet 1,good,,Image;StillImage,image/jpeg,eng,In Copyright- AAAI
-aadc_002,aadc_002.jpg,,,Purple and white skirt,AADC,1,skater skirts with purple and white checker pattern,skirt,cabinet 3,fair,,Image;StillImage,image/jpeg,eng,In Copyright- AAAI
-aace_001,aace_001.jpg,,,Black pants,AACE,45,black pants,pants,AACE rack 1,as new,,Image;StillImage,image/jpeg,eng,In Copyright- AAAI
-soul_001,soul_001.jpg,,,Air Force One shoes,Soul Revue,10,"air force 1 shoes, minor scuffing",shoes,Soul Revue shoe rack,as new,,Image;StillImage,image/jpeg,eng,In Copyright- AAAI
-soul_002,soul_002.jpg,,,Red jacket with silver broacde,Soul Revue,25,Janet Jackson-inspired military jackets,jacket,Soul Revue rack 2,good,,Image;StillImage,image/jpeg,eng,In Copyright- AAAI
-soul_003,soul_003.jpg,,,Red pumps,Soul Revue,3,red sparkly heels,shoes,Soul Revue shoe rack,fair,,Image;StillImage,image/jpg,eng,In Copyright- AAAI
-aadc_003,aadc_003.jpg,,,White opera gloves,AADC,16,chiffon ,gloves,cabinet 1,poor,,Image;StillImage,image/jpeg,eng,In Copyright- AAAI
+objectid,filename,title,owner,count,description,color,size,article,location,condition,dances,type,format,rights
+Dc1.1,,Patchwork cloak,AADC,1,black velvet cloak with patchwork material sewn on back,black; multicolor,n/a,cloak,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.2-3,,Silver Overshirt,AADC,2,sheer rhinestone tulle overshirt,silver,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.4-5,,Plum Overshirt,AADC,2,sheer rhinestone tulle overshirt,plum; purple,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.6-7,,Teal Overshirt,AADC,2,sheer rhinestone tulle overshirt,teal; blue; green,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.8-9,,Light Pink Overshirt,AADC,2,sheer rhinestone tulle overshirt,light pink; pink,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.10,,Hot Pink Overshirt,AADC,1,sheer rhinestone tulle overshirt,hot pink; pink,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.11-12,,Lavendar Overshirt,AADC,2,sheer rhinestone tulle overshirt,lavender; purple,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.13,,Coral Overshirt,AADC,1,sheer rhinestone tulle overshirt; small tear on shoulder,coral; pink,n/a,overshirt,Cabinet 1,fair,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.14,,Cerulean Overshirt,AADC,1,sheer rhinestone tulle overshirt,cerulean; blue,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.15,,Brown Overshirt,AADC,1,sheer rhinestone tulle overshirt,chocolate brown; brown,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.16,,Yellow Overshirt,AADC,1,sheer rhinestone tulle overshirt,yellow,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.17,,Dark Blue Overshirt,AADC,1,sheer rhinestone tulle overshirt,dark blue; blue,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.18-26,,Dusty Pink Overshirt,AADC,9,irridencent semi-sheer overshirt; first 3 items have hem tears,dusty pink; pink,n/a,overshirt,Cabinet 1,fair,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.27,,Pink Overshirt,AADC,1,irridencent semi-sheer overshirt; frayed hem,pink,n/a,overshirt,Cabinet 1,fair,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.28-29,,Light Blue Overshirt,AADC,2,irridencent semi-sheer overshirt; first has frayed hem,light blue; blue,n/a,overshirt,Cabinet 1,fair,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.30-33,,Magenta Overshirt,AADC,4,irridencent semi-sheer overshirt; first has frayed hem,magenta; pink,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.34-37,,Silver Overshirt,AADC,4,irridencent semi-sheer overshirt,silver,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc1.38-39,,White Overshirt,AADC,2,sheer tulle overshirt,white,n/a,overshirt,Cabinet 1,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.40,,Tie Dye Wrap Skirt,AADC,1,tie dye wrap skirt,chartreuse; green,n/a,skirt,"Cabinet 1, shelf",good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.41-42,,Tie Dye Pants,AADC,2,tie dye pants; first has frayed hems,blue,n/a,pants,"Cabinet 1, shelf",good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.43,,Tie Dye Pants,AADC,1,large tie dye pants,orange,n/a,pants,"Cabinet 1, shelf",good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.44-45,,Colorful Print Pants,AADC,2,first has torn inseam,multicolor,n/a,pants,"Cabinet 1, shelf",fair,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.46,,Colorful Plaid Pants,AADC,1,"pink, orange, green, yellow, purple plaid",multicolor,n/a,pants,"Cabinet 1, shelf",good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.47-49,,Yellow Pants,AADC,3,bright yellow pants; first has small stain,yellow,n/a,pants,"Cabinet 1, shelf",good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.50-51,,Green Pants,AADC,2,green pants,green,n/a,pants,"Cabinet 1, shelf",good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.52,,Tie Dye Capris,AADC,1,cargo capris with bleached tie die spots,beige; brown,n/a,pants,"Cabinet 1, shelf",good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.53,,Patterns Brown Shorts,AADC,1,patterned brown shorts,brown,n/a,pants,"Cabinet 1, shelf",good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Ds1.54,,Mock-up Shirt,AADC,1,rough shirt mock-up,cream; white,n/a,shirt,"Cabinet 1, shelf",fair,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.1,,White Petticoat,AADC,1,white petticoat,white,n/a,shirt,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.2,,White Blazer,AADC,1,white blazer,white,10T,jacket,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.3,,White Vest,AADC,1,yellowed front panels,white,n/a,vest,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.4,,White Shirt,AADC,1,"long sleeved, lace detail on front, shortened back",white,n/a,shirt,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.5,,Sheer Pants,AADC,1,sheer flowy pants,white,n/a,pants,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.6,,White Leotard,AADC,1,white long-sleeved leotard,white,medium,leotard,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.7,,Lace Shrug,AADC,1,white lace shrug; lightly torn seam,white,n/a,shrug,Cabinet 2 ,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.8,,Cream and Green Pants,AADC,1,cream pantes with green stripes,white; green,extra small,pants,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.9,,White Mini-cape,AADC,1,white mini-cape,white,n/a,cape,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.10,,Sheer White Pants,AADC,1,sheer white pants,white,small,pants,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.11-14,,White Silk unknown garment,AADC,4,white silk unknown garment; lightly stained,white,n/a,n/a,Cabinet 2,fair,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.15,,Rope Props,AADC,1,knotted rope/string shirt or cover (?),white,n/a,n/a,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.16,,White Leotard,AADC,1,white sleeveles leotard,white,medium,leotard,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.17-18,,White Pants,AADC,2,white skinny/jegging pants,white,small,pants,Cabinet 2 ,new,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.19,,White Sheer Pants,AADC,1,white flowy plaid-sheer pants,white,n/a,pants,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.20-24,,White Mini-cape,AADC,5,white mini-cape with horizontal line and lace detail,white,n/a,cape,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.25-29,,White Mini-cape,AADC,5,white mini-cape with flower detail,white,n/a,cape,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.30-35,,White Mini-cape,AADC,6,white mini-cape with cross-hatch detail,white,n/a,cape,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.36-39,,White Mini-cape,AADC,4,white mini-cape with stitched circle detail,white,n/a,cape,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.40,,Strip of white fabric,AADC,1,"7-8 ft long, 2.5 in wide",white,n/a,n/a,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.41,,White Sheer Pants,AADC,1,white sheer pants; small tear in inseam,white,n/a,pants,Cabinet 2,fair,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.42,,White Sheer Pants,AADC,1,white sheer pants ,white,small,pants,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.43,,White Leotard,AADC,1,white long-sleeved leotard,white,large,leotard,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.44,,White dress,AADC,1,"sleeveless, mid-length dress; mostly sheer with built-in leotard",white,n/a,dress,Cabinet 2,good,,Image;StillImage,image/jpeg,In Copyright- AAAI
+Dc2.45,,,,,,,,,,,,,,
