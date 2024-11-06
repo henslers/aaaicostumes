@@ -1,5 +1,6 @@
 field,display_name
 title,Title
-date,Date
+count,Count
 description,Description
-subject,Subjects
+article,Article
+location,Location

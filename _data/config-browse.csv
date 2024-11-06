@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 count,Count,,,Count
 owner,Owner,,,
 color,Color,true
-location,,true
+location,Location,true
