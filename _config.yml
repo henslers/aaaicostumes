@@ -25,9 +25,9 @@ title: AAAI Costume Database
 tagline: Collecting attire from the IU AADC, AACE, and Soul Revue
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: This repository houses information on costumes from three IU African American Arts Institute ensembles- the AADC, AACE, and Soul Revue.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: henslers
 
 ##########
 # COLLECTION SETTINGS
